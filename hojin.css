@@ -1,0 +1,20 @@
+.card {
+    width: 400px;
+    height: 200px;
+    background-color: #efedea;
+    border-radius: 10px;
+    border: noone;
+    padding: 20px;
+    margin: 20px auto;}
+
+
+    .card h1 {
+        font-size: 30px;
+    }
+
+
+
+    .card button {
+        
+        margin-top: 10px;
+    }
